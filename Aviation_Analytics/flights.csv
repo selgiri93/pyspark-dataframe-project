@@ -1,0 +1,250 @@
+flight_id,airline,origin,destination,aircraft_type
+F00001,Air India,Delhi,Delhi,A320
+F00002,Vistara,Patna,Mumbai,A320
+F00003,Akasa,Bangalore,Mumbai,A320
+F00004,Air India,Delhi,Kolkata,A321
+F00005,Air India,Mumbai,Mumbai,B737
+F00006,Akasa,Kolkata,Delhi,B737
+F00007,Vistara,Mumbai,Patna,B737
+F00008,Akasa,Mumbai,Bangalore,B737
+F00009,Vistara,Kolkata,Mumbai,A320
+F00010,Akasa,Patna,Kolkata,B737
+F00011,IndiGo,Patna,Mumbai,A321
+F00012,Vistara,Patna,Patna,A320
+F00013,Vistara,Bangalore,Bangalore,B737
+F00014,IndiGo,Delhi,Bangalore,B737
+F00015,Vistara,Bangalore,Bangalore,B737
+F00016,Air India,Kolkata,Mumbai,B737
+F00017,Akasa,Delhi,Bangalore,A321
+F00018,Akasa,Bangalore,Mumbai,B737
+F00019,Akasa,Kolkata,Kolkata,A321
+F00020,IndiGo,Kolkata,Delhi,B737
+F00021,Air India,Bangalore,Delhi,A320
+F00022,Air India,Mumbai,Mumbai,A321
+F00023,Akasa,Delhi,Patna,A321
+F00024,IndiGo,Delhi,Delhi,B737
+F00025,Air India,Bangalore,Mumbai,B737
+F00026,Akasa,Kolkata,Delhi,A321
+F00027,IndiGo,Mumbai,Patna,B737
+F00028,Akasa,Bangalore,Mumbai,B737
+F00029,IndiGo,Kolkata,Bangalore,A321
+F00030,IndiGo,Patna,Patna,A321
+F00031,Vistara,Bangalore,Kolkata,B737
+F00032,Air India,Mumbai,Mumbai,B737
+F00033,Akasa,Kolkata,Kolkata,A321
+F00034,Vistara,Bangalore,Bangalore,A321
+F00035,Air India,Delhi,Delhi,A321
+F00036,Akasa,Mumbai,Mumbai,A320
+F00037,Air India,Delhi,Bangalore,A321
+F00038,Air India,Delhi,Mumbai,A321
+F00039,IndiGo,Bangalore,Bangalore,A321
+F00040,Akasa,Patna,Mumbai,A320
+F00041,IndiGo,Patna,Patna,A321
+F00042,Vistara,Patna,Kolkata,B737
+F00043,Air India,Bangalore,Mumbai,A320
+F00044,Akasa,Patna,Kolkata,B737
+F00045,Akasa,Delhi,Bangalore,A320
+F00046,Air India,Delhi,Kolkata,A321
+F00047,Akasa,Bangalore,Patna,A320
+F00048,Vistara,Bangalore,Delhi,A320
+F00049,IndiGo,Mumbai,Kolkata,B737
+F00050,IndiGo,Bangalore,Bangalore,A320
+F00051,Akasa,Kolkata,Bangalore,A321
+F00052,Vistara,Delhi,Delhi,B737
+F00053,IndiGo,Bangalore,Mumbai,A320
+F00054,Air India,Kolkata,Bangalore,B737
+F00055,IndiGo,Bangalore,Delhi,A320
+F00056,Air India,Mumbai,Delhi,B737
+F00057,Akasa,Bangalore,Mumbai,A321
+F00058,Air India,Kolkata,Kolkata,A321
+F00059,Akasa,Kolkata,Patna,A320
+F00060,Akasa,Mumbai,Patna,A321
+F00061,Air India,Mumbai,Patna,B737
+F00062,Vistara,Kolkata,Patna,A321
+F00063,Air India,Delhi,Delhi,A320
+F00064,Akasa,Patna,Bangalore,A320
+F00065,Air India,Kolkata,Patna,A320
+F00066,Vistara,Mumbai,Kolkata,A321
+F00067,IndiGo,Mumbai,Kolkata,A321
+F00068,Akasa,Patna,Mumbai,A320
+F00069,Vistara,Bangalore,Mumbai,A320
+F00070,Vistara,Kolkata,Bangalore,B737
+F00071,Vistara,Bangalore,Mumbai,A320
+F00072,Akasa,Kolkata,Delhi,A321
+F00073,Air India,Delhi,Kolkata,A320
+F00074,Vistara,Bangalore,Delhi,A320
+F00075,Air India,Mumbai,Mumbai,A320
+F00076,Vistara,Patna,Patna,A320
+F00077,Vistara,Patna,Patna,A321
+F00078,Akasa,Patna,Patna,A321
+F00079,Vistara,Mumbai,Mumbai,A321
+F00080,Air India,Delhi,Delhi,B737
+F00081,IndiGo,Kolkata,Kolkata,B737
+F00082,Vistara,Bangalore,Delhi,B737
+F00083,Akasa,Patna,Kolkata,A320
+F00084,Akasa,Kolkata,Bangalore,A321
+F00085,Akasa,Mumbai,Patna,B737
+F00086,Air India,Bangalore,Kolkata,B737
+F00087,Akasa,Bangalore,Patna,B737
+F00088,Air India,Bangalore,Kolkata,A320
+F00089,Air India,Delhi,Patna,B737
+F00090,IndiGo,Patna,Bangalore,A321
+F00091,Vistara,Delhi,Kolkata,B737
+F00092,IndiGo,Bangalore,Mumbai,A321
+F00093,IndiGo,Kolkata,Patna,A321
+F00094,IndiGo,Mumbai,Delhi,A320
+F00095,Air India,Patna,Mumbai,A320
+F00096,Vistara,Kolkata,Kolkata,A321
+F00097,Air India,Mumbai,Bangalore,A321
+F00098,IndiGo,Bangalore,Bangalore,B737
+F00099,IndiGo,Kolkata,Delhi,A320
+F00100,Akasa,Kolkata,Mumbai,A320
+F00101,IndiGo,Kolkata,Kolkata,A320
+F00102,Air India,Bangalore,Delhi,A320
+F00103,Vistara,Bangalore,Kolkata,B737
+F00104,Vistara,Delhi,Delhi,A321
+F00105,Vistara,Delhi,Kolkata,B737
+F00106,IndiGo,Kolkata,Delhi,B737
+F00107,Air India,Delhi,Delhi,A321
+F00108,Vistara,Delhi,Bangalore,A321
+F00109,IndiGo,Delhi,Bangalore,A320
+F00110,Air India,Kolkata,Kolkata,A320
+F00111,Akasa,Patna,Patna,A321
+F00112,IndiGo,Bangalore,Kolkata,B737
+F00113,Akasa,Kolkata,Patna,B737
+F00114,Akasa,Bangalore,Delhi,A321
+F00115,Air India,Delhi,Bangalore,B737
+F00116,Vistara,Mumbai,Delhi,A320
+F00117,IndiGo,Delhi,Delhi,B737
+F00118,Akasa,Bangalore,Delhi,A321
+F00119,Air India,Delhi,Delhi,A320
+F00120,Vistara,Patna,Delhi,A320
+F00121,Air India,Mumbai,Kolkata,A320
+F00122,Vistara,Mumbai,Mumbai,A320
+F00123,Akasa,Delhi,Delhi,A321
+F00124,Air India,Bangalore,Bangalore,A320
+F00125,Vistara,Mumbai,Kolkata,B737
+F00126,IndiGo,Mumbai,Bangalore,A321
+F00127,Vistara,Bangalore,Mumbai,A321
+F00128,Vistara,Kolkata,Mumbai,B737
+F00129,Air India,Bangalore,Bangalore,B737
+F00130,Air India,Kolkata,Patna,B737
+F00131,IndiGo,Patna,Bangalore,A320
+F00132,IndiGo,Delhi,Kolkata,B737
+F00133,Vistara,Bangalore,Kolkata,A320
+F00134,Akasa,Delhi,Mumbai,A321
+F00135,Vistara,Mumbai,Kolkata,B737
+F00136,Vistara,Mumbai,Mumbai,B737
+F00137,Akasa,Kolkata,Kolkata,A320
+F00138,Air India,Kolkata,Bangalore,A321
+F00139,Vistara,Kolkata,Patna,A321
+F00140,Air India,Bangalore,Kolkata,A321
+F00141,Akasa,Patna,Kolkata,A321
+F00142,Air India,Delhi,Mumbai,A320
+F00143,IndiGo,Kolkata,Mumbai,A320
+F00144,Akasa,Patna,Delhi,A321
+F00145,IndiGo,Bangalore,Delhi,B737
+F00146,Vistara,Patna,Mumbai,A321
+F00147,Akasa,Patna,Patna,A321
+F00148,Vistara,Bangalore,Kolkata,A321
+F00149,Akasa,Bangalore,Kolkata,A321
+F00150,Air India,Kolkata,Delhi,B737
+F00151,Akasa,Delhi,Bangalore,A320
+F00152,Vistara,Bangalore,Kolkata,B737
+F00153,IndiGo,Bangalore,Patna,B737
+F00154,Akasa,Bangalore,Delhi,B737
+F00155,Akasa,Delhi,Delhi,B737
+F00156,Akasa,Bangalore,Bangalore,B737
+F00157,Vistara,Delhi,Delhi,A320
+F00158,IndiGo,Mumbai,Patna,A320
+F00159,Vistara,Mumbai,Patna,B737
+F00160,Akasa,Kolkata,Delhi,A321
+F00161,Air India,Bangalore,Mumbai,A321
+F00162,Akasa,Bangalore,Patna,A320
+F00163,Air India,Kolkata,Bangalore,A321
+F00164,Akasa,Patna,Mumbai,B737
+F00165,IndiGo,Patna,Bangalore,A320
+F00166,Vistara,Bangalore,Bangalore,A321
+F00167,Akasa,Patna,Mumbai,A320
+F00168,IndiGo,Mumbai,Delhi,A320
+F00169,Vistara,Kolkata,Mumbai,A321
+F00170,IndiGo,Delhi,Delhi,B737
+F00171,IndiGo,Delhi,Mumbai,A320
+F00172,Akasa,Delhi,Delhi,B737
+F00173,IndiGo,Bangalore,Patna,A321
+F00174,IndiGo,Kolkata,Delhi,B737
+F00175,Vistara,Mumbai,Patna,B737
+F00176,Vistara,Bangalore,Patna,B737
+F00177,Akasa,Bangalore,Mumbai,A320
+F00178,Air India,Mumbai,Kolkata,A321
+F00179,IndiGo,Mumbai,Mumbai,B737
+F00180,Air India,Kolkata,Kolkata,B737
+F00181,Air India,Delhi,Delhi,A320
+F00182,Akasa,Bangalore,Delhi,B737
+F00183,IndiGo,Delhi,Mumbai,A321
+F00184,Air India,Mumbai,Patna,B737
+F00185,Air India,Bangalore,Bangalore,A321
+F00186,Air India,Kolkata,Kolkata,B737
+F00187,Akasa,Delhi,Kolkata,B737
+F00188,Air India,Delhi,Patna,B737
+F00189,Akasa,Patna,Patna,B737
+F00190,IndiGo,Bangalore,Bangalore,A321
+F00191,Akasa,Mumbai,Delhi,A320
+F00192,Vistara,Mumbai,Patna,A320
+F00193,Air India,Patna,Kolkata,A320
+F00194,Air India,Kolkata,Delhi,A320
+F00195,Akasa,Mumbai,Patna,B737
+F00196,Akasa,Kolkata,Bangalore,B737
+F00197,Akasa,Patna,Mumbai,A320
+F00198,Akasa,Kolkata,Mumbai,A320
+F00199,IndiGo,Delhi,Patna,A320
+F00200,IndiGo,Mumbai,Patna,A321
+F00201,IndiGo,Bangalore,Bangalore,A321
+F00202,Vistara,Delhi,Delhi,A321
+F00203,Akasa,Kolkata,Kolkata,B737
+F00204,IndiGo,Mumbai,Kolkata,A320
+F00205,Air India,Patna,Kolkata,A320
+F00206,Air India,Delhi,Kolkata,A320
+F00207,IndiGo,Kolkata,Delhi,B737
+F00208,Akasa,Mumbai,Mumbai,B737
+F00209,Vistara,Bangalore,Patna,A321
+F00210,Air India,Kolkata,Kolkata,B737
+F00211,Air India,Delhi,Delhi,A321
+F00212,Akasa,Kolkata,Patna,B737
+F00213,IndiGo,Delhi,Bangalore,B737
+F00214,IndiGo,Patna,Mumbai,A320
+F00215,Air India,Delhi,Mumbai,A320
+F00216,Air India,Bangalore,Patna,A320
+F00217,Air India,Mumbai,Patna,A321
+F00218,Air India,Kolkata,Mumbai,B737
+F00219,Vistara,Patna,Patna,A320
+F00220,Vistara,Kolkata,Kolkata,B737
+F00221,Vistara,Patna,Delhi,B737
+F00222,Akasa,Kolkata,Bangalore,A321
+F00223,Akasa,Patna,Kolkata,B737
+F00224,Air India,Bangalore,Bangalore,A320
+F00225,Akasa,Mumbai,Delhi,B737
+F00226,Akasa,Delhi,Bangalore,B737
+F00227,Akasa,Bangalore,Mumbai,B737
+F00228,Akasa,Patna,Bangalore,A320
+F00229,IndiGo,Mumbai,Mumbai,B737
+F00230,Vistara,Patna,Mumbai,A320
+F00231,Air India,Delhi,Mumbai,A321
+F00232,IndiGo,Delhi,Bangalore,A321
+F00233,Air India,Bangalore,Delhi,A321
+F00234,Vistara,Bangalore,Mumbai,B737
+F00235,IndiGo,Delhi,Bangalore,A321
+F00236,Akasa,Patna,Kolkata,B737
+F00237,Air India,Mumbai,Mumbai,B737
+F00238,IndiGo,Mumbai,Bangalore,B737
+F00239,Vistara,Patna,Patna,B737
+F00240,IndiGo,Kolkata,Kolkata,A321
+F00241,IndiGo,Patna,Patna,A321
+F00242,Air India,Kolkata,Patna,A321
+F00243,IndiGo,Bangalore,Patna,A320
+F00244,Akasa,Mumbai,Kolkata,A320
+F00245,Akasa,Delhi,Delhi,A321
+F00246,Akasa,Mumbai,Bangalore,A320
+F00247,IndiGo,Mumbai,Bangalore,A321
+F00248,Vistara,Kolkata,Delhi,A320
+F00249,Vistara,Kolkata,Delhi,A320
